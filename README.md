@@ -1,3 +1,14 @@
+
+# This is a fork
+
+This repo is fork, but we didn't go anywhere :)
+
+To the official repo, go here: [https://github.com/permitio/fastapi_websocket_pubsub](https://github.com/permitio/fastapi_websocket_pubsub)
+
+
+----
+
+
 <p align="center">
 <img src="https://i.ibb.co/NV6wmy8/pubsub.png" width="55%" alt="pubsub" border="0">
 </p>
